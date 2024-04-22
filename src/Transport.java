@@ -22,4 +22,5 @@ public abstract class Transport implements ServiceStation{
     public void setWheelsCount(int wheelsCount) {
         this.wheelsCount = wheelsCount;
     }
+
 }
